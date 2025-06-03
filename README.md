@@ -7,5 +7,3 @@
 5. Specify the absolute path to the .fbx file
 6. The node returns a Static Mesh Object Reference, which you need to set in the Static Mesh Component via the SetStaticMesh node.
 7. Done! The mesh will be displayed when the project is launched.
-
-Translated with DeepL.com (free version)
